@@ -2,6 +2,8 @@
 
 A GUI software that helps you build and develop your german vocabulary ! This application is developed using PyQt Framework and this is a Beta version.
 
+![Screenshot](docs/capture.png)
+
 ## Main features
 - Easy to use and a minimalist GUI design.
 - Add/delete sentences and words into/from the database.
